@@ -1,4 +1,4 @@
-# CandyShop
+# CandyShop 🍬🍭
 
 The "SweetTreats Candy Shop" is a delightful Flutter app that brings the joy of candy shopping to your fingertips. This e-commerce app allows users to create an account, login, and browse through a wide selection of delectable candies. With an intuitive interface and appealing design, users can easily select their favorite candies, choose quantities, and add them to their cart for a seamless shopping experience.
 
