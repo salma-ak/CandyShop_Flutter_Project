@@ -5,7 +5,7 @@ The "SweetTreats Candy Shop" is a delightful Flutter app that brings the joy of 
 # 💡 Preview
 
 <p align="center">
-  <img src="https://github.com/nadiaseleem/EasyFood/assets/37695970/f8dd4864-4055-4bdc-af81-eef654d46e2e" width="279" height="600">
+  <img src="https://github.com/salma-ak/CandyShop_Flutter_Project/assets/133345788/9a9489ee-1f9e-493e-a373-b9e09a7a4726" width="279" height="600">
   <img src="https://github.com/salma-ak/CandyShop_Flutter_Project/assets/133345788/f7e27c30-667d-4a6d-b79c-ddf42b851bb6" width="279" height="600">
   <img src="https://github.com/salma-ak/CandyShop_Flutter_Project/assets/133345788/f7f8665e-fe1c-4462-b71f-f64674c1e656" width="279" height="600">
   <img src="https://github.com/salma-ak/CandyShop_Flutter_Project/assets/133345788/3ef88f60-4fe1-4edb-b93b-eba8c0dd0d3a" width="279" height="600">
